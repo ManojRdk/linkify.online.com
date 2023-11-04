@@ -466,7 +466,7 @@ margin-bottom: 1.6rem;
 }
 .containerm{
   margin-top: 5px;
-  background: rgba(158, 158, 158, 0.201);
+  background: rgba(158, 158, 158, 0.125);
 }
 .data {
     width: 73%;
@@ -482,7 +482,7 @@ margin-bottom: 1.6rem;
   height: 92px;
   flex-shrink: 0;
   border-radius: 8px;
-  background: #ffffff;
+  background: #f9f5f5a2;
   margin: 15px ;
 }
 
