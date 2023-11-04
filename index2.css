@@ -464,9 +464,9 @@ margin-bottom: 1.6rem;
   cursor: pointer;
 }
 .containerm{
- height:20rem;
+  position: relative;
   margin-top: 5px;
-  background: rgba(158, 158, 158, 0.125);
+ 
 }
 .data {
     width: 73%;
