@@ -198,7 +198,6 @@ span{
 
 .home{
     position: relative;
-    height: 100vh;
     background: rgba(239, 238, 238, 0.748);
     transition: var(--tran-05);
   }
@@ -465,8 +464,8 @@ margin-bottom: 1.6rem;
   cursor: pointer;
 }
 .containerm{
+ height:20rem;
   margin-top: 5px;
- height: fit-content;
   background: rgba(158, 158, 158, 0.125);
 }
 .data {
